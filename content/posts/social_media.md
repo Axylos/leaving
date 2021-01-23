@@ -2,7 +2,6 @@
 title: "Why I'm leaving social media"
 date: 2021-01-23T12:48:45-08:00
 featured_image: "/images/social_media.jpg"
-draft: true
 ---
 
 ## _This isn't just another self-indulgant announcement about ending a media feed no one cares about in a manner that lacks all self-awareness_
